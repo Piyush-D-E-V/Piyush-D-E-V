@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Piyush 👋
 
-<!--
-**Piyush-D-E-V/Piyush-D-E-V** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend Engineer | React.js • Next.js • TypeScript
 
-Here are some ideas to get you started:
+I'm a **Frontend Engineer** passionate about building modern, responsive, and user-focused web applications. I enjoy turning ideas into functional products and solving practical problems through clean and maintainable code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 What I'm Working On
+
+* Building real-world applications with **React.js and Next.js**
+* Deepening my knowledge of **TypeScript**
+* Working with **APIs, authentication, and databases**
+* Expanding my skills toward **full-stack development**
+
+## 🛠️ Tools & Technologies
+
+**Frontend:** React.js • JavaScript • TypeScript • Next.js • Tailwind CSS
+
+**Backend & Data:** Node.js • REST APIs • Supabase • MongoDB • Sanity
+
+**Tools:** Git • GitHub • VS Code • Vercel
+
+## 📫 How to Reach Me
+
+* **LinkedIn:** [https://www.linkedin.com/in/piyush-mina]
+* **Portfolio:** [Your Portfolio]
+* **Email:** [piyush140705@gmail.com]
+
+I'm always open to connecting with **developers, recruiters, and teams** building interesting products.
