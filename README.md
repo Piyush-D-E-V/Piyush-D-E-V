@@ -1,7 +1,7 @@
-#<picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f917/512.webp" type="image/webp"> <h1>Hi, I'm Piyush</h1>
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f917/512.webp" type="image/webp"> 
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f917/512.gif" alt="🤗" width="50" height="50">
-</picture> 
+</picture><h1>Hi, I'm Piyush</h1>
 
 ### Frontend Engineer | React.js • Next.js • TypeScript
 
