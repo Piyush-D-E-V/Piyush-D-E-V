@@ -24,8 +24,8 @@ I'm a **Frontend Engineer** passionate about building modern, responsive, and us
 
 ## 📫 How to Reach Me
 
-* **LinkedIn:** [https://www.linkedin.com/in/piyush-mina]
-* **Portfolio:** [Under Development]
-* **Email:** [piyush140705@gmail.com]
+* **LinkedIn: [https://www.linkedin.com/in/piyush-mina]
+* **Portfolio: [https://piyushmina.vercel.app/]
+* **Email: [piyush140705@gmail.com]
 
 I'm always open to connecting with **developers, recruiters, and teams** building interesting products.
